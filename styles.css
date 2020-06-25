@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(178, 234, 241);
+}
+
+h3 {
+    color: red
+}
+
+h2 {
+    color: mediumblue;
+}
+
+h1 {
+    color: red;
+}
+
+hr {
+    margin-left: 0;
+    border-style: dotted none none;
+    width: 15%;
+    border-width: 5px;
+    border-color: tomato;
+}
+
+img {
+    height: 400px;
+}
